@@ -71,8 +71,6 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\g7u9ooinzv-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\79icxypb91-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\1ut0t3rhkk-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\7uvbu3afya-{0}-0ys449lx8o-0ys449lx8o.gz
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\5eg43ryksb-{0}-0ys449lx8o-0ys449lx8o.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +81,6 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\FirstProject.pdb
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\FirstProject.genruntimeconfig.cache
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\ref\FirstProject.dll
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\FirstProject.sourcelink.json
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\7uvbu3afya-{0}-ut9uhdb98g-ut9uhdb98g.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\5eg43ryksb-{0}-ut9uhdb98g-ut9uhdb98g.gz
