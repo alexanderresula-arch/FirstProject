@@ -23,7 +23,6 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\scopedcss\bundle\FirstProject.styles.css
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\scopedcss\projectbundle\FirstProject.bundle.scp.css
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\82q5s31var-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\nj0twmhibu-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\uiany5e0la-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\3jah3ydy9o-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -84,3 +83,4 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\FirstProject.sourcelink.json
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\7uvbu3afya-{0}-3qzttlv6ng-3qzttlv6ng.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\5eg43ryksb-{0}-3qzttlv6ng-3qzttlv6ng.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\82q5s31var-{0}-s9bjxfbugi-s9bjxfbugi.gz
