@@ -1,10 +1,41 @@
 ﻿@page "/gaming"
-@rendermode InteractiveServer
 
-<PageTitle>Gaming Details</PageTitle>
+<PageTitle>Gaming Journey</PageTitle>
 
-<h1>My Gaming Journey</h1>
+<h1>My Gaming Library</h1>
 
-<p>I enjoy playing games that need teamwork to win different rounds.</p>
+<div class="game-list">
+    <ul>
+        <li>Forsaken</li>
+        <li>Terraria</li>
+    </ul>
+</div>
 
+<hr />
 
+<button class="btn btn-primary" @onclick="ToggleStats">
+    @(showStats ? "Hide Details" : "My Playtime and Achievements")
+</button>
+
+@if (showStats)
+{
+    <div class="stats-card mt-3" style="padding: 15px; background: #222; color: white; border-radius: 8px;">
+        <h3>Stats for 2026</h3>
+        <ul>
+            <li><strong>Total Playtime:</strong> 450 Hours</li>
+            <li><strong>Achievements:</strong> 85% Completion</li>
+            <li><strong>Top Rank:</strong> Diamond II</li>
+        </ul>
+    </div>
+}
+
+@code {
+    // This variable tracks if the stats are visible
+    private bool showStats = false;
+
+    // This function runs when the button is clicked
+    private void ToggleStats()
+    {
+        showStats = !showStats;
+    }
+}
