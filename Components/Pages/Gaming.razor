@@ -1,4 +1,5 @@
 ﻿@page "/gaming"
+@rendermode InteractiveServer
 
 <PageTitle>Gaming Journey</PageTitle>
 
@@ -19,14 +20,55 @@
 
 @if (showStats)
 {
-    <div class="stats-card mt-3" style="padding: 15px; background: #222; color: white; border-radius: 8px;">
-        <h3>Stats for 2026</h3>
-        <ul>
-            <li><strong>Total Playtime:</strong> 450 Hours</li>
-            <li><strong>Achievements:</strong> 85% Completion</li>
-            <li><strong>Top Rank:</strong> Diamond II</li>
-        </ul>
+    <div class="game-card mb-4" style="border-left: 5px solid #6200ea; padding: 20px; background-color: #000000; border-radius: 0 8px 8px 0;">
+    <h3 style="color: #ff0000;">Forsaken Progress</h3>
+    
+    <div style="color: #fcfcfc;">
+        <h2 style="font-size: 1.5rem; margin-bottom: 0;">Total Playtime:</h2>
+        <p style="font-size: 1.2rem;">10:00:20:02 (10 days and 20 minutes)</p>
     </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h4 style="color: #4cc9f0;">Survivors</h4>
+            <ul class="list-unstyled">
+                <li style="color: #00ff48;">
+                    <span style="color: #00ff2a;">✅ <strong>Maxed:</strong></span> 
+                    Shedletsky, Guest 1337, Chance, Two Time, Noob, 007n7
+                </li>
+                <li style="color: #ff0000;">
+                    ⏳ <strong>In Progress:</strong> Dusekkar, Elliot, Builderman, Taph, Veeronica
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-md-6">
+            <h4 style="color: #810808;">Killers</h4>
+            <ul class="list-unstyled">
+                <li style="color: #00ff2a;">
+                    <span>✅ <strong>Maxed:</strong></span> 
+                    Slasher, 1x1x1x1, c00lkid, Noli, Guest 666, John Doe
+                </li>
+                <li style="color: #888;">
+                    ⏳ <strong>In Progress:</strong> Nosferatu
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="game-card" style="border-left: 5px solid #2196f3; padding: 20px; background-color: #1a1a1a; border-radius: 0 8px 8px 0;">
+    <h3 style="color: #4cc9f0;">Terraria</h3>
+    
+    <div class="stats-display">
+        <p style="font-size: 1.2rem; color: #fcfcfc;">
+            <strong>Total Playtime:</strong> 206.6 hours
+        </p>
+        <p style="color: #888;">
+            Current status: Exploration and building in progress.
+        </p>
+    </div>
+</div>
 }
 
 @code {
