@@ -30,14 +30,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3/FirstProject/Components/Pages/Gaming.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHYW1pbmcucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3/FirstProject/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3/FirstProject/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -65,3 +57,11 @@ build_metadata.AdditionalFiles.CssScope = b-qu2lv3hrba
 [C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3/FirstProject/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-o6j4q57p8b
+
+[C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3/FirstProject/Components/Pages/Gaming.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHYW1pbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8swbvbwo6s
+
+[C:/Users/Alexander Resula/OneDrive/Documents/HTML Projects/AP3/FirstProject/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-c63m64d25f

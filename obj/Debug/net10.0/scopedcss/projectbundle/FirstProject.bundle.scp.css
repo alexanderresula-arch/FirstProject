@@ -361,3 +361,15 @@ main[b-hka2u43q5n] {
         opacity: 0;
     }
 }
+/* /Components/Pages/Gaming.razor.rz.scp.css */
+.gaming-bg[b-8swbvbwo6s]{
+    background-color: rgb(red, green, blue);
+    background-image: url(./Images/)
+    
+}
+/* /Components/Pages/Home.razor.rz.scp.css */
+.home-bg[b-c63m64d25f]{
+    background: linear-gradient(to bottom, rgb(38, 0, 255), #ff0000);
+    min-height: 100vh;
+    padding:20px;
+}
