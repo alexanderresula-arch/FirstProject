@@ -72,3 +72,12 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.gaming-bg {
+    background-image: url(./Images/forsaken_thumbnail.jpg); /* The '/' starts at wwwroot */
+    background-size: cover;      /* Scales the image to fill the screen */
+    background-position: center;  /* Keeps the middle of the photo visible */
+    background-attachment: fixed; /* background stays still while scrolling */
+    min-height: 100vh;           /* Ensures the background covers the full page height */
+    color: white;                /* Ensures text stays readable */
+}

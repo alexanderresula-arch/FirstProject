@@ -1,5 +1,24 @@
-.gaming-bg{
-    background-color: rgb(red, green, blue);
-    background-image: url(./Images/)
-    
+/* A Wrapper class */
+.gaming-wrapper {
+    /* Links the image */
+    background-image: url('/Images/forsaken_thumbnail.jpg');
+
+    /* Alignment to make it look good */
+    background-size: cover;          /* Scales the image to fill the screen */
+    background-position: center;      /* Centers the image */
+    background-repeat: no-repeat;    /* Prevents tiling */
+    background-attachment: fixed;     /* Image stays still while scrolling */
+
+    /* Covers the whole screen */
+    min-height: 100vh;               /* Full Viewport Height */
+    width: 100%;
+    padding: 20px;                   /* Gives content space from the edge */
+
+    /* Protect text visibility from the background pic */
+    color: white !important;         /* all text inside will be white */
+}
+
+.gaming-wrapper h1,
+.gaming-wrapper p {
+    color: white;
 }

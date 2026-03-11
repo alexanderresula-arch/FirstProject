@@ -81,8 +81,8 @@ C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\FirstProject.genruntimeconfig.cache
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\ref\FirstProject.dll
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\FirstProject.sourcelink.json
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\82q5s31var-{0}-s9bjxfbugi-s9bjxfbugi.gz
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\scopedcss\Components\Pages\Gaming.razor.rz.scp.css
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\7uvbu3afya-{0}-3fqbtpa842-3fqbtpa842.gz
-C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\5eg43ryksb-{0}-3fqbtpa842-3fqbtpa842.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\82q5s31var-{0}-80hw4mg5oj-80hw4mg5oj.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\7uvbu3afya-{0}-bvicy9ywlu-bvicy9ywlu.gz
+C:\Users\Alexander Resula\OneDrive\Documents\HTML Projects\AP3\FirstProject\obj\Debug\net10.0\compressed\5eg43ryksb-{0}-bvicy9ywlu-bvicy9ywlu.gz

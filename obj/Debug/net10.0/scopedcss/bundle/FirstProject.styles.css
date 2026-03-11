@@ -362,10 +362,29 @@ main[b-hka2u43q5n] {
     }
 }
 /* /Components/Pages/Gaming.razor.rz.scp.css */
-.gaming-bg[b-8swbvbwo6s]{
-    background-color: rgb(red, green, blue);
-    background-image: url(./Images/)
-    
+/* A Wrapper class */
+.gaming-wrapper[b-8swbvbwo6s] {
+    /* Links the image */
+    background-image: url('/Images/forsaken_thumbnail.jpg');
+
+    /* Alignment to make it look good */
+    background-size: cover;          /* Scales the image to fill the screen */
+    background-position: center;      /* Centers the image */
+    background-repeat: no-repeat;    /* Prevents tiling */
+    background-attachment: fixed;     /* Image stays still while scrolling */
+
+    /* Covers the whole screen */
+    min-height: 100vh;               /* Full Viewport Height */
+    width: 100%;
+    padding: 20px;                   /* Gives content space from the edge */
+
+    /* Protect text visibility from the background pic */
+    color: white !important;         /* all text inside will be white */
+}
+
+.gaming-wrapper h1[b-8swbvbwo6s],
+.gaming-wrapper p[b-8swbvbwo6s] {
+    color: white;
 }
 /* /Components/Pages/Home.razor.rz.scp.css */
 .home-bg[b-c63m64d25f]{
@@ -373,3 +392,4 @@ main[b-hka2u43q5n] {
     min-height: 100vh;
     padding:20px;
 }
+
